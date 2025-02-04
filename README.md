@@ -6,3 +6,4 @@
 - **T11 - Basic Python Code till `input()`** - 31 Jan 2025  
 - **Basic Set** - 31 Jan 2025  
 - **Set-Dictionaryt** - 01-feb-2025
+- **Range_&_Numpy** - 03-feb-2025
