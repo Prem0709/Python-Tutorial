@@ -13,3 +13,5 @@
   - **`<import numpy>`** – a library for numerical computing in Python, mainly used for arrays and mathematical operations.  
   - **`<import warnings>`** - which handles warning messages in Python, allowing suppression or customization.  
   - **`<import matplotlib>`** - a library for creating static, animated, and interactive visualizations in Python.
+- **Pandas Introduction:**** - 12-feb-2025  
+
